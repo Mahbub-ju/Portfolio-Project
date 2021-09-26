@@ -1,0 +1,101 @@
+
+
+.col-1{width:8.33%;}
+.col-2{width:16.66%;}
+.col-3{width:25%;}
+.col-4{width:33.33%;}
+.col-5{width:41.66%;}
+.col-6{width:50%;}
+.col-7{width:58.33%;}
+.col-8{width:66.66%;}
+.col-9{width:75%;}
+.col-10{width:83.33%;}
+.col-11{width:91.66%;}
+.col-12{width:100%;}
+
+
+.nav-logo{
+	
+	text-align:left;
+}
+.nav-head{
+	text-align:right;
+}
+.nab-menu{
+	flex-direction:row;
+	justify-content:flex-end;
+	
+}
+.nab-menu a{
+	background-color:transparent;
+}
+
+
+
+.img-top{
+	right:100px;
+	width:120px;
+	transition:width 2s,transform 2s;
+}
+.img-top:hover{
+	width:150px;
+	
+}
+
+.img-bottom{
+	left:140px;
+	width:120px;
+	transition:width 2s,transform 2s;
+}
+.img-bottom:hover{
+	width:150px;
+	
+}
+
+
+
+.about-me-img{
+	margin-top:100px;
+}
+.pic{
+	
+	
+	width:230px;
+	height:200px;
+}
+.about-me-disc p,a{
+	
+	text-align:left;
+}
+
+
+.professional-experience{
+	padding:1% 5%;
+	
+}
+
+
+.contact-link{
+	position:relative;
+}
+
+.linkable-icon{
+	position:absolute;
+	margin-top:200px;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	
+}
+.fotter{
+	margin:30px;
+	padding:20px;
+}
+
+
+.footer-menu a{
+	display:inline;
+	padding:20px 10px;
+	margin:20px 10px;
+	
+}
